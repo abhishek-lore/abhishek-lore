@@ -1,4 +1,4 @@
-## Hi there 👋
+<img width="736" height="414" alt="image" src="https://github.com/user-attachments/assets/c314f8f3-ff4c-47c8-a47e-5ef0e5d945ab" />
 
 <!--
 **abhishek-lore/abhishek-lore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
